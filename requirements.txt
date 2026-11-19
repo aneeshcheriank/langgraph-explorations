@@ -1,0 +1,16 @@
+ipykernel
+
+python-dotenv
+ddgs
+beautifulsoup4
+
+pandas
+sqlalchemy
+psycopg[binary]
+
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-deepseek
